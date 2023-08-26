@@ -2,7 +2,7 @@
 
 git status -> To check the status.
 git clone --link-- -> For cloning git respository to VS code.
-git add --filename-- -> To add a File.
+git add --file-name-- -> To add a File.
 git commit -m "message" -> To commit changes in local repository.
 git push origin main -> To push your commits from your local repository to remote repository on Github.
   (Doesn't work for branch named as master because main is the newly driven name for master)
@@ -20,3 +20,4 @@ git branch -> Used to list all the branches in the current repository.
 git branch -a -> To display current and all branches.
 git pull -> To pull changes from respository.
 git checkout --file-name-- -> To discard any uncommitted change in working tree of the specified path.
+git diff --branch-name-- ->  A command that shows the differences between the working directory and the index.
