@@ -22,3 +22,4 @@ git pull -> To pull changes from respository.
 git checkout --file-name-- -> To discard any uncommitted change in working tree of the specified path.
 git diff --branch-name-- ->  A command that shows the differences between the working directory and the index.
 q -> To quit from cmd.
+git merge --branch-name-- -> To merge branches.
