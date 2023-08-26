@@ -15,5 +15,5 @@ git pull origin master -> To pull all of your commits and branches from a remote
 cd .. -> To move up one directory level bfr in the file system.
 git init -> Used to initialize a new git repository in the current directory.
 git add . -> Used to add all the files in the current directory to the STAGING AREA.
-git remote add --link-- -> Used to add a new remote repository to the current local repository.
+git remote add origin --link-- -> Used to add a new remote repository to the current local repository.
 git branch -> Used to list all the branches in the current repository.
