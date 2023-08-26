@@ -1,0 +1,8 @@
+---Github commands---
+
+git status -> To check the status.
+git clone --link-- -> For cloning git respository to VS code.
+git add --filename-- -> To add a File.
+git commit -m "message" -> To commit changes in local repository.
+git push origin master -> To push your commits from your local repository to remote repository on Github.
+git pull origin master -> To pull all of your commits and branches from a remote repository to your local repository
