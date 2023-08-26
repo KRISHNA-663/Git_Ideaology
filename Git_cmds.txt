@@ -17,3 +17,6 @@ git init -> Used to initialize a new git repository in the current directory.
 git add . -> Used to add all the files in the current directory to the STAGING AREA.
 git remote add origin --link-- -> Used to add a new remote repository to the current local repository.
 git branch -> Used to list all the branches in the current repository.
+git branch -a -> To display current and all branches.
+git pull -> To pull changes from respository.
+git checkout --file-name-- -> To discard any uncommitted change in working tree of the specified path.
